@@ -95,8 +95,8 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dQA-PY-cf0" userLabel="F Key">
                                         <rect key="frame" x="0.0" y="352.5" width="414" height="109"/>
                                         <subviews>
-                                            <button opaque="NO" tag="1" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EP7-FS-goB">
-                                                <rect key="frame" x="-38" y="0.0" width="364" height="109"/>
+                                            <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EP7-FS-goB">
+                                                <rect key="frame" x="25" y="0.0" width="364" height="109"/>
                                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <state key="normal" title="F">
